@@ -9,3 +9,9 @@ code avail at: https://github.com/Hritiksum/Assignment
   <li>ejs</li>
   <li>css</li>
   </ul>
+
+## Assignment Schreenshot
+
+![web app ss](/fwQ1.jpg)
+![web app ss](/fwq1s.jpg)
+![web app ss](/fwQ2.jpg)
